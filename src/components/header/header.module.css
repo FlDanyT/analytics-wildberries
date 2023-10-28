@@ -1,0 +1,27 @@
+.headerTextNav{
+
+flex-shrink: 0;
+
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+font-family: Raleway;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 35px
+}
+.headerTextNavButton{
+  color: #FFF;
+font-family: Raleway;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border-radius: 49px;
+
+border: 1.5px solid #AD00FF;
+background: rgba(143, 0, 255, 0.46);
+
+margin-left: 229px
+}

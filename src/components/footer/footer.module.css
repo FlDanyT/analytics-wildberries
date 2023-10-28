@@ -1,0 +1,117 @@
+.giveContactsFons{
+    background: no-repeat;
+    background-image: url('img/Rectangle\ 68\ \(1\).png') ;
+    background-size: contain;
+    
+}
+
+.contactsImg{
+    cursor: pointer;    
+}
+
+.contactsMainText{
+    color: var(--mono-white, #FFF);
+font-family: Raleway-Bold;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.92px;
+text-align: center;
+}
+
+.giveContactsPoragraf{
+    margin-left: 345px;
+    margin-top: 45px;
+    text-shadow: 0px 0px 36px rgba(165, 252, 235, 0.20);
+font-family: Raleway-Bold;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: 110.6%; /* 55.3px */
+
+background: linear-gradient(91deg, #B5FEEF 10.31%, #2EECC5 165.09%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.giveContactsTextGiveName{
+    margin-left: 345px;
+    margin-top: 21px;
+
+    color: rgba(255, 255, 255, 0.70);
+font-family: Raleway;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 153.8%; /* 26.146px */
+}
+
+input {
+    padding-left: 10px;
+    font-family: Raleway;
+    color: #FFF;
+    outline: none;
+    width: 200px;
+height: 52px;
+flex-shrink: 0;
+  border-radius: 41px;
+  border: 1.5px solid rgba(255, 255, 255, 0.20);
+  background: rgba(255, 255, 255, 0.10);
+  box-shadow: 0px 0px 38px 0px rgba(255, 255, 255, 0.05);
+}
+
+
+.giveContactsTextTwo{
+    margin-left: 600px;
+    margin-top: -87px;
+
+    color: rgba(255, 255, 255, 0.70);
+font-family: Raleway;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 153.8%; /* 26.146px */
+}
+
+
+.giveContactsTextThree{
+    margin-left: 850px;
+    margin-top: -87px;
+
+    color: rgba(255, 255, 255, 0.70);
+font-family: Raleway;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 153.8%; /* 26.146px */
+}
+
+
+.buttonSend{
+    margin-left: 600px;
+    margin-top: 20px;
+
+    width: 200px;
+height: 52px;
+flex-shrink: 0;
+border-radius: 41px;
+border: 1.5px solid #2EECC5;
+background: rgba(46, 236, 197, 0.10);
+box-shadow: 0px 0px 38px 0px rgba(255, 255, 255, 0.05);
+
+color: #FFF;
+font-family: Raleway;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 153.8%; /* 26.146px */
+
+}
+
+.inputForm {
+    margin-left: 335px;
+    width: 437px;
+
+}
